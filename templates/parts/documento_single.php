@@ -1,0 +1,1 @@
+<a class="dm-document-single" href="<?php echo $documento->link ?>" target="_new" title="Baixar o arquivo: <?php echo $documento->titulo; ?>" ><?php echo $documento->titulo; ?></a>
